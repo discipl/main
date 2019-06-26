@@ -8,9 +8,9 @@ shared by all projects in the Discipl Software Stack.
 
 This content has been moved to our official website:
 
-https://discipl.eu
-https://discipl.eu/principles/
-https://discipl.eu/technology/
-https://discipl.eu/collaboration/
-https://discipl.eu/collaboration/dms
-https://discipl.eu/roadmap/
+- https://discipl.eu
+- https://discipl.eu/principles/
+- https://discipl.eu/technology/
+- https://discipl.eu/collaboration/
+- https://discipl.eu/collaboration/dms
+- https://discipl.eu/roadmap/
