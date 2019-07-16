@@ -44,13 +44,6 @@ This content has been moved to our official website:
   ```
   Travis CI is a hosted continuous integration service used to build and test software projects hosted at GitHub.
   ```
-- Discipl Software Stack
-  ```
-  This project uses a couple components from the Discipl Software Stack and these are:
-    - Core-Baseconnector
-    - Abdundance-Service
-    - Core-Ephemeral
-  ```
 - Babel
   ```
   Babel is used to transpile the ES6 to get compatible JavaScript
