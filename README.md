@@ -13,6 +13,7 @@ shared by all projects in the Discipl Software Stack.
 - [Collaboration](https://discipl.org/home/collaboration/)
 - [Dynamic matching system](https://discipl.org/home/collaboration/dms/)
 - [Roadmap](https://discipl.org/home/roadmap/)
+- [Slack](https://discipl.slack.com) ([No access?](https://join.slack.com/t/discipl/shared_invite/enQtOTYwNzUxNDk0NzA3LWRhYTNjMThhM2JlNTRjYjdlZjA2Mjc4OGY1NTU3ZjY2YTUxNjYzMDU5OGI3NWQ3Mzc3ZjQ1MjU1ODJkMmU5M2U))
 
 ## Discipl Components
 
