@@ -1,6 +1,6 @@
 # Vision
 
-Imagine: Someone wakes up and tells their phone they are unhappy in their current career. Their phone uses the data it was provided earlier: "Maybe you might be interested in teaching?". The person considers: "I would, but I'm not really qualified to do that." Their phone offers a solution: "No worries, there's a subsidy available for that"
+Imagine: Someone wakes up feeling unhappy in their current career. With the means that are accessible by telephone it is possible to explore this. Their phone uses the data it was provided earlier: "Maybe you might be interested in teaching?". The person considers: "I would, but I'm not really qualified to do that." Their phone offers a solution: "No worries, there's a subsidy available for that"
 
 ## Where is Discipl going?
 
@@ -14,17 +14,17 @@ This is quite broad, so let's specifiy with a couple of examples:
 - When a person expresses a wish to become a teacher, they can easily apply for subsidies to assist that
 - When a company threathens to go under due to disaster, they are guided to applicable solutions, both public and private
 
-This should all be able to be accomplished by software solutions using the Discipl libraries.
+All of this should be accomplished by supporting and meeting those needs with software solutions using the Discipl libraries.
 
 ## What do we need to get there?
 
 ### Data on the entity, SSI
 
-In order for solutions to be able to provide solutions, data on the entity is essential. This can be provided by the entity, however, having data attested by an authority can streamline the rest of the process. We see Self-Sovereign Identity (SSI) as one of the key methods to obtain this (attested) data. We acknowledge that the world likely won't standardize on one platform. The Discipl core libraries provides a way to use different platforms in a uniform way. 
+In order for solutions to be able to provide solutions, data properly representing the entity is essential. This can be provided by the entity, however, having data attested by an authority can streamline the rest of the process. We see Self-Sovereign Identity (SSI) as one of the key methods to obtain this (attested) data. We acknowledge that the world likely won't standardize on one platform. The Discipl core libraries provides a way to use different platforms in a uniform way. 
 
 ### Framework of law and regulation
 
-In case of government, law describes ways in which they could possibly help the entity. Using the Calculemus-FLINT method we model law as FLINT models. These can used to simulate or execute scenarios involving different actors. A complete model of the law and regulation applicable will allow solutions to explore the full range of possibilities.
+In case of government, law describes ways in which they could possibly help the entity. Using the Calculemus-FLINT method we model law as FLINT models. These can used to simulate or execute scenarios involving different actors. A complete model of the law and regulation applicable will allow solutions to explore the full range of possibilities. Fully in line with SSI's idea that there will not be a single standard, discipl will also support deviating models.
 
 ### AI-assistance
 
